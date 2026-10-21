@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/geometric-phase-nanofin-orientation-map-explainer/
 
+Repository: https://github.com/mizcausevic-dev/geometric-phase-nanofin-orientation-map-explainer
+
 ## What this is
 
 An interactive anatomy plate for Geometric-Phase Nanofin Orientation Map. Play, scrub, or jump the five stages. The same frame always draws the same picture.
