@@ -11,56 +11,56 @@
       "glyph": "fin",
       "label": "Anisotropic meta-atoms",
       "role": "path",
-      "x": 0.22,
-      "y": 0.24
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "plate",
       "label": "Their orientations",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.24
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "optic",
       "label": "Aperture",
       "role": "path",
-      "x": 0.78,
-      "y": 0.24
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "plate",
       "label": "Input",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.52
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "polarizer",
       "label": "Converted polarization components",
       "role": "path",
-      "x": 0.5,
-      "y": 0.52
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "doc",
       "label": "Overlay orientation-dependent geometric phase",
       "role": "sense",
-      "x": 0.78,
-      "y": 0.52
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "plate",
       "label": "Resulting designed wavefront",
       "role": "structure",
-      "x": 0.22,
-      "y": 0.8
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
